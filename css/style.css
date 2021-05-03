@@ -1,0 +1,14 @@
+body
+{
+     background-color: #000;
+    color: #fff;
+}
+.pos
+{
+    top: 0;
+    right: 30px;
+    background-color:#09c;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 2px;
+}
